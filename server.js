@@ -17,7 +17,7 @@ app.use('/pokemon', pokemonController)
 
 //root route (redirect)
 app.get('/', (req,res)=>{
-    res.redirect('/products')
+    res.redirect('/pokemon')
 })
 
 // basic error handling for bad product indexes
