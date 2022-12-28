@@ -19,3 +19,5 @@ This is a replica of the "Pokedex" project. This repo was specifically created f
 Create a mongoose model for each Pokemon</p>
 <li>Refactor pokemon controller to use data from MongoDB </li>
 </ul>
+
+<img src="https://seir1031-materials.notion.site/image/https%3A%2F%2Fimgur.com%2FoxGPnND.png?id=d7e81aab-c02b-4781-961e-0af16d26c022&table=block&spaceId=99cfc90c-d757-45e7-a904-edcc65eea954&width=2000&userId=&cache=v2" alt="pikachu"/>
